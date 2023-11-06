@@ -1,8 +1,6 @@
-# React + Vite
+# Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Goal
+The Intent of this project is to create a memory card matching game that fetches images from an API. - Project prompt from The Odin Project React Curriculum. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-The technical goal is to use hooks to manage and utilize state while fetching and using data from an external API.
